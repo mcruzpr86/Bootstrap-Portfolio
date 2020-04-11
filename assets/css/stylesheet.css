@@ -13,6 +13,10 @@ body {
     margin-right: 10px;
 }
 
+h1 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+
 .d-inline-block {
     padding: 0px 15px 0px 15px;
 }
@@ -24,4 +28,8 @@ hr {
 
 p {
     padding: 20px;
+}
+
+footer {
+    border-top: 8px solid #4aaaa5;
 }
